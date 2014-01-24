@@ -2,7 +2,7 @@ title:            Lastweekend Online
 tagline:          What were you doing lastweekend?
 description:      A random
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+#url:              http://localhost:4000
 
 # Owner/author information
 owner:
