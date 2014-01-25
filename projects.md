@@ -7,7 +7,8 @@ image:
   credit: Grant Gardner
 
 ---
-Live projects are at github @lwoggardner and most are [ruby gems](https://rubygems.org/profiles/lwoggardner)
+
+Current projects are on [lwoggardner@github](https://github.com/lwoggardner) or as  [ruby gems](https://rubygems.org/profiles/lwoggardner)
 
 ## Dead Projects
 

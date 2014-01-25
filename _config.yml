@@ -1,8 +1,9 @@
-title:            Lastweekend Online    
+title:            Lastweekend Online
 tagline:          What were you doing lastweekend?
-description:      A random
+description:      
+logo:             lwo.gif
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              http://localhost:4000
+url:              
 
 # Owner/author information
 owner:
@@ -13,7 +14,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         http://github.com/lwoggardner
+  github:         lwoggardner
   linkedin:       
   instagram:      
   lastfm:         
